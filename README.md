@@ -1,4 +1,4 @@
-# 📊 Portofolio Data Science — Pertemuan 1–7
+# Portofolio Data Science — Pertemuan 1–7
 
 | | |
 |---|---|
@@ -18,7 +18,7 @@ Repository ini berisi kumpulan notebook praktikum mata kuliah Data Science semes
 
 ---
 
-## 📚 Daftar Pertemuan & Notebook
+## Daftar Pertemuan & Notebook
 
 | # | Topik | Dataset | Notebook |
 |---|-------|---------|----------|
@@ -32,7 +32,7 @@ Repository ini berisi kumpulan notebook praktikum mata kuliah Data Science semes
 
 ---
 
-## 🛠️ Tools & Library yang Digunakan
+## Tools & Library yang Digunakan
 
 | Kategori | Tools / Library |
 |----------|----------------|
@@ -47,7 +47,7 @@ Repository ini berisi kumpulan notebook praktikum mata kuliah Data Science semes
 
 ---
 
-## ▶️ Cara Menjalankan Notebook
+## Cara Menjalankan Notebook
 
 **Via Google Colab:**
 1. Buka [colab.research.google.com](https://colab.research.google.com)
@@ -58,7 +58,7 @@ Repository ini berisi kumpulan notebook praktikum mata kuliah Data Science semes
 
 ---
 
-## 📝 Kesimpulan Perjalanan Belajar
+## Kesimpulan Perjalanan Belajar
 
 Tujuh pertemuan ini mencakup topik yang cukup beragam, mulai dari manipulasi data dengan Pandas, data cleaning, statistika deskriptif, visualisasi, preprocessing untuk ML, hingga membangun model Regresi Linear pertama. Setiap topik saling berkaitan dan membentuk satu pipeline yang utuh dalam alur kerja data science.
 
