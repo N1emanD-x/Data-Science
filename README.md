@@ -1,4 +1,4 @@
-# Portofolio Data Science — Pertemuan 1–7
+# 📊 Portofolio Data Science — Pertemuan 1–13
 
 | | |
 |---|---|
@@ -12,13 +12,13 @@
 
 ---
 
-## Tentang Repository Ini
+## 👋 Tentang Repository Ini
 
 Repository ini berisi kumpulan notebook praktikum mata kuliah Data Science semester genap 2025/2026. Saya Novan Frido Saputro, mahasiswa Informatika Universitas Siber Asia, kelas IF403.
 
 ---
 
-## Daftar Pertemuan & Notebook
+## 📚 Daftar Pertemuan & Notebook
 
 | # | Topik | Dataset | Notebook |
 |---|-------|---------|----------|
@@ -29,10 +29,15 @@ Repository ini berisi kumpulan notebook praktikum mata kuliah Data Science semes
 | 5 | Visualisasi Data | Tips | [Pertemuan5_NovanFS_240401010119.ipynb](./Pertemuan5_NovanFS_240401010119.ipynb) |
 | 6 | Preprocessing untuk Machine Learning | Titanic | [Pertemuan6_NovanFS_240401010119.ipynb](./Pertemuan6_NovanFS_240401010119.ipynb) |
 | 7 | Regresi Linear — Prediksi Gaji | Sintetis | [Pertemuan7_NovanFS_240401010119.ipynb](./Pertemuan7_NovanFS_240401010119.ipynb) |
+| 9 | Algoritma Klasifikasi Bagian 1 — Logistic Regression & Decision Tree | Breast Cancer | [Pertemuan9_NovanFS_240401010119.ipynb](./Pertemuan9_NovanFS_240401010119.ipynb) |
+| 10 | Algoritma Klasifikasi Bagian 2 — Random Forest & Imbalanced Dataset | Telco Churn | [Pertemuan10_NovanFS_240401010119.ipynb](./Pertemuan10_NovanFS_240401010119.ipynb) |
+| 11 | Unsupervised Learning — K-Means & Hierarchical Clustering | Sintetis | [Pertemuan11_NovanFS_240401010119.ipynb](./Pertemuan11_NovanFS_240401010119.ipynb) |
+| 12 | Asosiasi Data & Rekomendasi — Apriori & Content-Based Filtering | Sintetis | [Pertemuan12_NovanFS_240401010119.ipynb](./Pertemuan12_NovanFS_240401010119.ipynb) |
+| 13 | Deep Learning & NLP — Neural Network & TF-IDF Analisis Sentimen | make_moons + Ulasan | [Pertemuan13_NovanFS_240401010119.ipynb](./Pertemuan13_NovanFS_240401010119.ipynb) |
 
 ---
 
-## Tools & Library yang Digunakan
+## 🛠️ Tools & Library yang Digunakan
 
 | Kategori | Tools / Library |
 |----------|----------------|
@@ -41,13 +46,15 @@ Repository ini berisi kumpulan notebook praktikum mata kuliah Data Science semes
 | **Manipulasi Data** | `pandas`, `numpy` |
 | **Visualisasi** | `matplotlib`, `seaborn` |
 | **Machine Learning** | `scikit-learn` |
-| **Statistika** | `scipy.stats` |
-| **Lainnya** | `requests`, `missingno` |
+| **Deep Learning** | `tensorflow`, `keras` |
+| **NLP** | `TfidfVectorizer` |
+| **Asosiasi & Rekomendasi** | `mlxtend` |
+| **Clustering** | `scipy` |
 | **Version Control** | Git, GitHub |
 
 ---
 
-## Cara Menjalankan Notebook
+## ▶️ Cara Menjalankan Notebook
 
 **Via Google Colab:**
 1. Buka [colab.research.google.com](https://colab.research.google.com)
@@ -58,10 +65,14 @@ Repository ini berisi kumpulan notebook praktikum mata kuliah Data Science semes
 
 ---
 
-## Kesimpulan Perjalanan Belajar
+## 📝 Kesimpulan Perjalanan Belajar
 
-Tujuh pertemuan ini mencakup topik yang cukup beragam, mulai dari manipulasi data dengan Pandas, data cleaning, statistika deskriptif, visualisasi, preprocessing untuk ML, hingga membangun model Regresi Linear pertama. Setiap topik saling berkaitan dan membentuk satu pipeline yang utuh dalam alur kerja data science.
+Tiga belas pertemuan ini mencakup spektrum yang cukup luas dalam ekosistem Data Science — dari manipulasi data dasar hingga membangun neural network.
+
+Pertemuan 1–7 membangun fondasi: Python, Pandas, data cleaning, statistika deskriptif, visualisasi, preprocessing, dan model regresi pertama. Pertemuan 9–10 masuk ke klasifikasi dengan Logistic Regression, Decision Tree, dan Random Forest — termasuk penanganan dataset imbalanced yang sering muncul di kasus nyata. Pertemuan 11–12 memperkenalkan unsupervised learning dan sistem rekomendasi, dua pendekatan yang tidak membutuhkan label. Pertemuan 13 membuka pintu ke Deep Learning dan NLP — memproses teks menjadi angka dan membangun model yang bisa memahami sentimen ulasan.
+
+Secara keseluruhan, perjalanan ini mengajarkan bahwa tidak ada satu algoritma yang cocok untuk semua masalah — pilihan model selalu bergantung pada jenis data, tujuan analisis, dan konteks bisnisnya.
 
 ---
 
-*Repository ini dibuat sebagai bagian dari Ujian Tengah Semester (UTS) mata kuliah Data Science, Semester Genap 2025/2026.*
+*Repository ini dibuat sebagai bagian dari portofolio mata kuliah Data Science, Semester Genap 2025/2026.*
