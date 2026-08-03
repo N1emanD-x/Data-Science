@@ -1,4 +1,4 @@
-# 📊 Portofolio Data Science — Pertemuan 1–13
+# Portofolio Data Science — Pertemuan 1–13
 
 | | |
 |---|---|
@@ -12,13 +12,13 @@
 
 ---
 
-## 👋 Tentang Repository Ini
+## Tentang Repository Ini
 
 Repository ini berisi kumpulan notebook praktikum mata kuliah Data Science semester genap 2025/2026. Saya Novan Frido Saputro, mahasiswa Informatika Universitas Siber Asia, kelas IF403.
 
 ---
 
-## 📚 Daftar Pertemuan & Notebook
+## Daftar Pertemuan & Notebook
 
 | # | Topik | Dataset | Notebook |
 |---|-------|---------|----------|
@@ -37,7 +37,7 @@ Repository ini berisi kumpulan notebook praktikum mata kuliah Data Science semes
 
 ---
 
-## 🛠️ Tools & Library yang Digunakan
+## Tools & Library yang Digunakan
 
 | Kategori | Tools / Library |
 |----------|----------------|
@@ -54,7 +54,7 @@ Repository ini berisi kumpulan notebook praktikum mata kuliah Data Science semes
 
 ---
 
-## ▶️ Cara Menjalankan Notebook
+## Cara Menjalankan Notebook
 
 **Via Google Colab:**
 1. Buka [colab.research.google.com](https://colab.research.google.com)
@@ -65,14 +65,10 @@ Repository ini berisi kumpulan notebook praktikum mata kuliah Data Science semes
 
 ---
 
-## 📝 Kesimpulan Perjalanan Belajar
+## Kesimpulan Perjalanan Belajar
 
 Tiga belas pertemuan ini mencakup spektrum yang cukup luas dalam ekosistem Data Science — dari manipulasi data dasar hingga membangun neural network.
 
 Pertemuan 1–7 membangun fondasi: Python, Pandas, data cleaning, statistika deskriptif, visualisasi, preprocessing, dan model regresi pertama. Pertemuan 9–10 masuk ke klasifikasi dengan Logistic Regression, Decision Tree, dan Random Forest — termasuk penanganan dataset imbalanced yang sering muncul di kasus nyata. Pertemuan 11–12 memperkenalkan unsupervised learning dan sistem rekomendasi, dua pendekatan yang tidak membutuhkan label. Pertemuan 13 membuka pintu ke Deep Learning dan NLP — memproses teks menjadi angka dan membangun model yang bisa memahami sentimen ulasan.
 
 Secara keseluruhan, perjalanan ini mengajarkan bahwa tidak ada satu algoritma yang cocok untuk semua masalah — pilihan model selalu bergantung pada jenis data, tujuan analisis, dan konteks bisnisnya.
-
----
-
-*Repository ini dibuat sebagai bagian dari portofolio mata kuliah Data Science, Semester Genap 2025/2026.*
